@@ -1,5 +1,6 @@
 # calendarific-py
-Calendarific API in Python
+Calendarific API in Python. 
+Grab public holiday information.
 
 Usage
 --------------------
